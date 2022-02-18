@@ -1,7 +1,7 @@
 ### Java Mortage Calculator
 - Ask User to Enter Principal Amount - Example = 200000
 - Ask User to Enter Annual Interest Rate - Example = .04
-- Ask USer to Enter Term in Years - Example = 30
+- Ask User to Enter Term in Years - Example = 30
 - Monthly Payment is Calculated and Displayed to User.
 - Total Payback Amount with Interest Displayed to User.
 - Verify or Double Check amount by using Google Mortage Link: 
